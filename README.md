@@ -1,7 +1,7 @@
 <p align="center"><img width="4128" height="1024" alt="clawsight" src="https://github.com/user-attachments/assets/249759de-78ff-427f-b980-7e1b0286aad4"/>
 
-  <h1 align="center">ClawSight</h1>
-  <p align="center"><strong>EDR for AI agents.</strong></p>
+  <h1 align="center">ClawSight EDR</h1>
+  <p align="center"><strong>Endpoint Detection and Response for AI agents.</strong></p>
   <p align="center"><em>Intercept. Enforce. Observe. Every tool call. Every message. Every session.</em></p>
 </p>
 
