@@ -63,8 +63,7 @@ export type TelemetryEnvelope = {
     | "diagnostic"
     | "log"
     | "policy"
-    | "payment"
-    | "skill";
+    | "payment";
   action: string;
   openclaw?: {
     agentId?: string;
